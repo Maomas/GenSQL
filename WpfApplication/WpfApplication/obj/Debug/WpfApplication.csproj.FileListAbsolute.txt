@@ -1,0 +1,31 @@
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.ResolveComReference.cache
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+E:\Programmes C#\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.ResolveComReference.cache
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Sam_2\Documents\C#\Projets\GenSQL\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
