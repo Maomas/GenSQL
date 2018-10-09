@@ -16,17 +16,17 @@
             <ColumnDefinition Width="46*"/>
         </Grid.ColumnDefinitions>
         <TextBox x:Name="textBox_excel" HorizontalAlignment="Left" Height="23" Margin="164,11,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" Grid.ColumnSpan="2" Grid.Row="1"/>
-        <Button x:Name="button_excel" Content="Rechercher" HorizontalAlignment="Left" Margin="148,10,0,0" VerticalAlignment="Top" Width="155" Height="23" Click="button_excel_Click" Grid.Column="1" Grid.Row="1"/>
+        <Button x:Name="button_excel" Content="Search" HorizontalAlignment="Left" Margin="148,10,0,0" VerticalAlignment="Top" Width="155" Height="23" Click="button_excel_Click" Grid.Column="1" Grid.Row="1"/>
         <TextBox x:Name="textBox_file" HorizontalAlignment="Left" Height="23" Margin="164,57,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="171" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
-        <Button x:Name="button_writing" Content="Ecrire" HorizontalAlignment="Left" Margin="64,39,0,0" VerticalAlignment="Top" Width="155" Grid.Column="1" Height="27" Click="button_writing_Click" Grid.Row="1"/>
-        <Label x:Name="label_excel" Content="Fichier Excel à lire :" HorizontalAlignment="Left" Margin="46,10,0,0" VerticalAlignment="Top" Width="118" Height="23" Grid.Row="1"/>
-        <Label x:Name="label_file" Content="Fichier d'écriture : " HorizontalAlignment="Left" Margin="46,56,0,0" VerticalAlignment="Top" Width="113" Height="23" Grid.RowSpan="2"/>
-        <Button x:Name="closing_button" Content="Quitter" HorizontalAlignment="Left" Margin="224,39.333,0,0" VerticalAlignment="Top" Width="79" Height="27" Click="closing_button_Click" Grid.Column="1" Grid.Row="1"/>
-        <Label x:Name="label_title_coordinates" Content="Coordonnées du titre :" HorizontalAlignment="Left" Margin="120,26,0,0" VerticalAlignment="Top" Width="131" Grid.Column="1" Height="23"/>
+        <Button x:Name="button_writing" Content="Write" HorizontalAlignment="Left" Margin="64,39,0,0" VerticalAlignment="Top" Width="155" Grid.Column="1" Height="27" Click="button_writing_Click" Grid.Row="1"/>
+        <Label x:Name="label_excel" Content="Excel file to read :" HorizontalAlignment="Left" Margin="46,10,0,0" VerticalAlignment="Top" Width="118" Height="23" Grid.Row="1"/>
+        <Label x:Name="label_file" Content="Writing file :" HorizontalAlignment="Left" Margin="46,56,0,0" VerticalAlignment="Top" Width="113" Height="23" Grid.RowSpan="2"/>
+        <Button x:Name="closing_button" Content="Leave" HorizontalAlignment="Left" Margin="224,39.333,0,0" VerticalAlignment="Top" Width="79" Height="27" Click="closing_button_Click" Grid.Column="1" Grid.Row="1"/>
+        <Label x:Name="label_title_coordinates" Content="Title coordinates :" HorizontalAlignment="Left" Margin="120,26,0,0" VerticalAlignment="Top" Width="131" Grid.Column="1" Height="23"/>
         <TextBox x:Name="textBox_title_coordinates" HorizontalAlignment="Left" Height="23" Margin="256,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="47" Grid.Column="1"/>
-        <Label x:Name="label_table_title" Content="Titre de la table :" HorizontalAlignment="Left" Margin="46,29,0,0" VerticalAlignment="Top" Width="113" Height="23"/>
+        <Label x:Name="label_table_title" Content="Table title :" HorizontalAlignment="Left" Margin="46,29,0,0" VerticalAlignment="Top" Width="113" Height="23"/>
         <TextBox x:Name="textBox_table_title" HorizontalAlignment="Left" Height="23" Margin="164,29,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="158" Grid.ColumnSpan="2"/>
-        <Button x:Name="button_file" Content="Créer" HorizontalAlignment="Left" Margin="148,56,0,0" VerticalAlignment="Top" Width="155" Height="23" Grid.Column="1" Click="button_file_Click" Grid.RowSpan="2"/>
+        <Button x:Name="button_file" Content="Create" HorizontalAlignment="Left" Margin="148,56,0,0" VerticalAlignment="Top" Width="155" Height="23" Grid.Column="1" Click="button_file_Click" Grid.RowSpan="2"/>
 
     </Grid>
 </Window>
