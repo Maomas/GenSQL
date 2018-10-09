@@ -22,7 +22,7 @@ You have different fields to complete :
 - *Table title*, the name of the table.
 - *Title coordinates*, the cell where the title is.
 - *Writing file*, the file where the SQL code will be written.  You have to click on the button *Create* to choose the path where the file will be written, or you can enter the path manually.
-- *Excel file to read', which contains the table with which you want to create your SQL code.  Click on the button *Search* to choose your Excel file in your file system.
+- *Excel file to read*, which contains the table with which you want to create your SQL code.  Click on the button *Search* to choose your Excel file in your file system.
 - Click on the button *Write* to confirm the writing.
 - Click on the button *Leave* to leave the program.
 
